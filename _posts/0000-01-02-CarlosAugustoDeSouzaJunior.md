@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Meu Surper TEXTO
 Use the left arrow to go back!
